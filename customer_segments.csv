@@ -1,0 +1,201 @@
+customer_id,segment,rfm_score,recency_days,frequency,monetary,recommendation
+C533194,Champions,4,3,8,48.99,Reward with loyalty program. Early access to new products.
+C230843,Champions,8,303,7,403.9,Reward with loyalty program. Early access to new products.
+C690238,Champions,12,246,1,471.53,Reward with loyalty program. Early access to new products.
+C593936,Champions,12,204,9,375.55,Reward with loyalty program. Early access to new products.
+C468708,Champions,6,240,9,424.98,Reward with loyalty program. Early access to new products.
+C802338,Champions,7,195,2,148.34,Reward with loyalty program. Early access to new products.
+C578921,Champions,4,344,8,209.78,Reward with loyalty program. Early access to new products.
+C432703,Champions,9,105,3,559.89,Reward with loyalty program. Early access to new products.
+C351762,Champions,4,15,8,571.51,Reward with loyalty program. Early access to new products.
+C282506,Champions,10,263,6,346.74,Reward with loyalty program. Early access to new products.
+C693184,Champions,12,145,8,74.97,Reward with loyalty program. Early access to new products.
+C336486,Champions,8,335,9,99.5,Reward with loyalty program. Early access to new products.
+C563539,Champions,5,119,5,400.86,Reward with loyalty program. Early access to new products.
+C502576,Champions,7,308,8,318.14,Reward with loyalty program. Early access to new products.
+C383392,Champions,6,165,5,375.7,Reward with loyalty program. Early access to new products.
+C960283,Champions,6,344,3,384.03,Reward with loyalty program. Early access to new products.
+C923424,Champions,9,145,2,497.33,Reward with loyalty program. Early access to new products.
+C802736,Champions,5,285,6,238.17,Reward with loyalty program. Early access to new products.
+C377354,Champions,4,246,5,376.19,Reward with loyalty program. Early access to new products.
+C272022,Champions,7,218,6,540.42,Reward with loyalty program. Early access to new products.
+C906675,Champions,9,196,5,334.77,Reward with loyalty program. Early access to new products.
+C882734,Champions,3,51,3,420.82,Reward with loyalty program. Early access to new products.
+C529857,Champions,8,49,6,479.11,Reward with loyalty program. Early access to new products.
+C494692,Champions,9,353,3,454.99,Reward with loyalty program. Early access to new products.
+C604204,Champions,9,314,9,269.81,Reward with loyalty program. Early access to new products.
+C964784,Champions,7,186,8,111.96,Reward with loyalty program. Early access to new products.
+C171895,Champions,8,123,6,294.29,Reward with loyalty program. Early access to new products.
+C568084,Champions,10,45,2,78.34,Reward with loyalty program. Early access to new products.
+C622915,Champions,3,189,5,597.59,Reward with loyalty program. Early access to new products.
+C706070,Champions,7,207,4,267.64,Reward with loyalty program. Early access to new products.
+C300073,Champions,8,224,7,143.83,Reward with loyalty program. Early access to new products.
+C870157,Champions,6,300,9,599.43,Reward with loyalty program. Early access to new products.
+C346765,Champions,12,214,2,480.04,Reward with loyalty program. Early access to new products.
+C589155,Champions,12,151,3,236.52,Reward with loyalty program. Early access to new products.
+C281854,Champions,6,67,3,419.1,Reward with loyalty program. Early access to new products.
+C112442,Champions,5,60,1,351.55,Reward with loyalty program. Early access to new products.
+C860392,Champions,6,179,8,181.53,Reward with loyalty program. Early access to new products.
+C305696,Champions,9,309,2,331.81,Reward with loyalty program. Early access to new products.
+C979712,Champions,9,92,1,325.96,Reward with loyalty program. Early access to new products.
+C635518,Champions,8,271,7,382.22,Reward with loyalty program. Early access to new products.
+C305658,Champions,3,146,6,560.33,Reward with loyalty program. Early access to new products.
+C814300,Champions,7,26,3,101.03,Reward with loyalty program. Early access to new products.
+C462839,Champions,6,136,5,443.35,Reward with loyalty program. Early access to new products.
+C177332,Champions,5,31,7,266.79,Reward with loyalty program. Early access to new products.
+C212666,Champions,11,97,1,63.71,Reward with loyalty program. Early access to new products.
+C515019,Champions,7,212,1,336.98,Reward with loyalty program. Early access to new products.
+C870545,Champions,6,328,2,522.63,Reward with loyalty program. Early access to new products.
+C321646,Champions,11,273,9,200.29,Reward with loyalty program. Early access to new products.
+C285431,Champions,5,81,1,320.24,Reward with loyalty program. Early access to new products.
+C663510,Champions,8,112,2,266.79,Reward with loyalty program. Early access to new products.
+C315616,Loyal Customers,5,207,4,26.36,Upsell higher-value products. Offer membership benefits.
+C380356,Loyal Customers,9,206,8,546.99,Upsell higher-value products. Offer membership benefits.
+C187846,Loyal Customers,7,25,8,478.68,Upsell higher-value products. Offer membership benefits.
+C960761,Loyal Customers,10,180,9,353.05,Upsell higher-value products. Offer membership benefits.
+C815400,Loyal Customers,12,10,9,512.74,Upsell higher-value products. Offer membership benefits.
+C385154,Loyal Customers,5,107,6,566.34,Upsell higher-value products. Offer membership benefits.
+C543612,Loyal Customers,8,133,5,564.9,Upsell higher-value products. Offer membership benefits.
+C516790,Loyal Customers,6,46,3,26.88,Upsell higher-value products. Offer membership benefits.
+C343758,Loyal Customers,6,24,1,282.22,Upsell higher-value products. Offer membership benefits.
+C521439,Loyal Customers,9,223,2,62.84,Upsell higher-value products. Offer membership benefits.
+C175675,Loyal Customers,8,56,5,52.84,Upsell higher-value products. Offer membership benefits.
+C981065,Loyal Customers,10,220,9,410.58,Upsell higher-value products. Offer membership benefits.
+C263704,Loyal Customers,11,102,9,501.1,Upsell higher-value products. Offer membership benefits.
+C924353,Loyal Customers,10,123,4,38.17,Upsell higher-value products. Offer membership benefits.
+C902271,Loyal Customers,7,108,1,264.04,Upsell higher-value products. Offer membership benefits.
+C750329,Loyal Customers,10,177,7,218.61,Upsell higher-value products. Offer membership benefits.
+C748552,Loyal Customers,7,104,5,135.69,Upsell higher-value products. Offer membership benefits.
+C680609,Loyal Customers,9,343,3,583.18,Upsell higher-value products. Offer membership benefits.
+C468102,Loyal Customers,3,257,9,557.2,Upsell higher-value products. Offer membership benefits.
+C385069,Loyal Customers,7,173,6,113.3,Upsell higher-value products. Offer membership benefits.
+C490932,Loyal Customers,11,260,3,190.09,Upsell higher-value products. Offer membership benefits.
+C168382,Loyal Customers,4,211,4,57.86,Upsell higher-value products. Offer membership benefits.
+C420762,Loyal Customers,10,271,6,226.21,Upsell higher-value products. Offer membership benefits.
+C600929,Loyal Customers,11,313,4,34.3,Upsell higher-value products. Offer membership benefits.
+C105833,Loyal Customers,8,14,3,553.92,Upsell higher-value products. Offer membership benefits.
+C518048,Loyal Customers,4,19,8,39.65,Upsell higher-value products. Offer membership benefits.
+C509251,Loyal Customers,12,137,7,377.22,Upsell higher-value products. Offer membership benefits.
+C605410,Loyal Customers,6,202,8,25.85,Upsell higher-value products. Offer membership benefits.
+C926297,Loyal Customers,8,112,3,580.06,Upsell higher-value products. Offer membership benefits.
+C307593,Loyal Customers,10,143,5,511.05,Upsell higher-value products. Offer membership benefits.
+C881085,Loyal Customers,7,41,9,462.86,Upsell higher-value products. Offer membership benefits.
+C104838,Loyal Customers,8,63,4,586.77,Upsell higher-value products. Offer membership benefits.
+C487069,Loyal Customers,12,146,7,411.71,Upsell higher-value products. Offer membership benefits.
+C574833,Loyal Customers,8,44,2,136.49,Upsell higher-value products. Offer membership benefits.
+C124406,Loyal Customers,3,55,5,228.84,Upsell higher-value products. Offer membership benefits.
+C647749,Loyal Customers,9,137,7,410.89,Upsell higher-value products. Offer membership benefits.
+C325075,Loyal Customers,4,33,4,268.06,Upsell higher-value products. Offer membership benefits.
+C126547,Loyal Customers,11,320,8,140.46,Upsell higher-value products. Offer membership benefits.
+C833771,Loyal Customers,3,271,9,345.1,Upsell higher-value products. Offer membership benefits.
+C645961,Loyal Customers,7,26,8,599.33,Upsell higher-value products. Offer membership benefits.
+C608853,Loyal Customers,8,26,3,360.32,Upsell higher-value products. Offer membership benefits.
+C781326,Loyal Customers,9,123,4,354.9,Upsell higher-value products. Offer membership benefits.
+C517653,Loyal Customers,12,191,4,430.33,Upsell higher-value products. Offer membership benefits.
+C368520,Loyal Customers,12,146,6,345.07,Upsell higher-value products. Offer membership benefits.
+C722619,Loyal Customers,10,241,8,567.77,Upsell higher-value products. Offer membership benefits.
+C576387,Loyal Customers,4,2,3,506.84,Upsell higher-value products. Offer membership benefits.
+C752595,Loyal Customers,9,204,3,516.65,Upsell higher-value products. Offer membership benefits.
+C445341,Loyal Customers,5,50,6,365.94,Upsell higher-value products. Offer membership benefits.
+C930171,Loyal Customers,6,205,3,545.91,Upsell higher-value products. Offer membership benefits.
+C494039,Loyal Customers,4,361,8,586.89,Upsell higher-value products. Offer membership benefits.
+C474684,At-Risk,5,68,2,194.83,Send win-back email with discount code.
+C903765,At-Risk,7,207,1,433.3,Send win-back email with discount code.
+C898377,At-Risk,3,102,3,485.26,Send win-back email with discount code.
+C609740,At-Risk,3,321,3,70.91,Send win-back email with discount code.
+C220384,At-Risk,12,269,4,211.93,Send win-back email with discount code.
+C999683,At-Risk,12,168,7,139.49,Send win-back email with discount code.
+C298462,At-Risk,9,355,2,548.63,Send win-back email with discount code.
+C526542,At-Risk,3,231,4,119.48,Send win-back email with discount code.
+C752433,At-Risk,10,279,7,511.7,Send win-back email with discount code.
+C851679,At-Risk,12,72,2,258.94,Send win-back email with discount code.
+C391040,At-Risk,8,68,6,224.95,Send win-back email with discount code.
+C161330,At-Risk,10,103,1,217.67,Send win-back email with discount code.
+C427535,At-Risk,6,250,9,235.87,Send win-back email with discount code.
+C812495,At-Risk,3,88,3,46.23,Send win-back email with discount code.
+C803332,At-Risk,3,223,6,160.05,Send win-back email with discount code.
+C365713,At-Risk,12,248,6,550.63,Send win-back email with discount code.
+C660451,At-Risk,11,112,6,364.0,Send win-back email with discount code.
+C239270,At-Risk,5,314,1,204.9,Send win-back email with discount code.
+C103436,At-Risk,12,186,2,345.75,Send win-back email with discount code.
+C879276,At-Risk,4,119,3,440.99,Send win-back email with discount code.
+C657437,At-Risk,10,310,5,383.53,Send win-back email with discount code.
+C879340,At-Risk,7,44,6,223.74,Send win-back email with discount code.
+C105704,At-Risk,3,154,5,512.5,Send win-back email with discount code.
+C300277,At-Risk,3,259,6,592.16,Send win-back email with discount code.
+C757293,At-Risk,11,294,6,66.99,Send win-back email with discount code.
+C532911,At-Risk,6,15,2,108.8,Send win-back email with discount code.
+C828770,At-Risk,7,209,7,357.44,Send win-back email with discount code.
+C885139,At-Risk,8,191,1,310.5,Send win-back email with discount code.
+C148110,At-Risk,9,275,4,147.46,Send win-back email with discount code.
+C951306,At-Risk,9,14,4,411.58,Send win-back email with discount code.
+C387832,At-Risk,11,41,6,302.08,Send win-back email with discount code.
+C279194,At-Risk,6,297,3,565.57,Send win-back email with discount code.
+C387502,At-Risk,3,272,5,589.51,Send win-back email with discount code.
+C186728,At-Risk,10,275,1,258.88,Send win-back email with discount code.
+C217954,At-Risk,12,151,4,47.05,Send win-back email with discount code.
+C850377,At-Risk,4,30,9,140.33,Send win-back email with discount code.
+C716737,At-Risk,10,344,1,177.72,Send win-back email with discount code.
+C416131,At-Risk,4,76,1,156.26,Send win-back email with discount code.
+C981965,At-Risk,3,66,8,216.72,Send win-back email with discount code.
+C705109,At-Risk,3,246,7,442.72,Send win-back email with discount code.
+C950247,At-Risk,9,352,2,142.65,Send win-back email with discount code.
+C621291,At-Risk,9,230,2,41.21,Send win-back email with discount code.
+C677907,At-Risk,11,264,3,132.89,Send win-back email with discount code.
+C591745,At-Risk,11,31,6,576.04,Send win-back email with discount code.
+C957426,At-Risk,12,140,2,209.56,Send win-back email with discount code.
+C480360,At-Risk,10,63,3,203.9,Send win-back email with discount code.
+C958697,At-Risk,4,124,6,467.5,Send win-back email with discount code.
+C184600,At-Risk,12,212,5,478.3,Send win-back email with discount code.
+C711692,At-Risk,10,304,8,347.61,Send win-back email with discount code.
+C866656,At-Risk,8,242,3,86.26,Send win-back email with discount code.
+C970783,Lost,9,218,9,147.56,Final re-engagement attempt. Consider suppressing from campaigns.
+C217616,Lost,9,120,5,350.66,Final re-engagement attempt. Consider suppressing from campaigns.
+C396247,Lost,8,86,1,504.51,Final re-engagement attempt. Consider suppressing from campaigns.
+C400206,Lost,8,302,4,333.8,Final re-engagement attempt. Consider suppressing from campaigns.
+C183905,Lost,6,213,5,128.2,Final re-engagement attempt. Consider suppressing from campaigns.
+C588963,Lost,3,318,8,271.38,Final re-engagement attempt. Consider suppressing from campaigns.
+C699176,Lost,9,45,2,348.51,Final re-engagement attempt. Consider suppressing from campaigns.
+C694936,Lost,12,297,9,558.07,Final re-engagement attempt. Consider suppressing from campaigns.
+C582233,Lost,6,298,3,351.43,Final re-engagement attempt. Consider suppressing from campaigns.
+C703386,Lost,11,99,2,502.71,Final re-engagement attempt. Consider suppressing from campaigns.
+C486503,Lost,9,147,8,42.43,Final re-engagement attempt. Consider suppressing from campaigns.
+C386400,Lost,12,77,8,472.65,Final re-engagement attempt. Consider suppressing from campaigns.
+C553416,Lost,12,6,5,163.67,Final re-engagement attempt. Consider suppressing from campaigns.
+C198120,Lost,8,168,9,489.73,Final re-engagement attempt. Consider suppressing from campaigns.
+C291659,Lost,12,360,3,341.89,Final re-engagement attempt. Consider suppressing from campaigns.
+C598017,Lost,3,356,2,406.84,Final re-engagement attempt. Consider suppressing from campaigns.
+C272097,Lost,7,308,1,31.8,Final re-engagement attempt. Consider suppressing from campaigns.
+C194328,Lost,6,261,7,478.8,Final re-engagement attempt. Consider suppressing from campaigns.
+C312810,Lost,4,357,2,235.96,Final re-engagement attempt. Consider suppressing from campaigns.
+C792803,Lost,10,253,6,21.51,Final re-engagement attempt. Consider suppressing from campaigns.
+C381775,Lost,9,221,4,475.8,Final re-engagement attempt. Consider suppressing from campaigns.
+C989192,Lost,4,177,8,154.93,Final re-engagement attempt. Consider suppressing from campaigns.
+C419464,Lost,3,279,2,491.61,Final re-engagement attempt. Consider suppressing from campaigns.
+C245306,Lost,7,305,2,113.22,Final re-engagement attempt. Consider suppressing from campaigns.
+C316937,Lost,12,358,1,198.99,Final re-engagement attempt. Consider suppressing from campaigns.
+C867283,Lost,12,320,5,445.54,Final re-engagement attempt. Consider suppressing from campaigns.
+C186366,Lost,9,199,6,341.15,Final re-engagement attempt. Consider suppressing from campaigns.
+C271147,Lost,5,330,1,299.02,Final re-engagement attempt. Consider suppressing from campaigns.
+C949190,Lost,11,12,4,418.39,Final re-engagement attempt. Consider suppressing from campaigns.
+C379360,Lost,12,98,1,532.03,Final re-engagement attempt. Consider suppressing from campaigns.
+C306123,Lost,5,97,5,389.62,Final re-engagement attempt. Consider suppressing from campaigns.
+C547651,Lost,7,97,1,139.23,Final re-engagement attempt. Consider suppressing from campaigns.
+C741316,Lost,4,249,5,316.41,Final re-engagement attempt. Consider suppressing from campaigns.
+C378852,Lost,12,169,3,201.1,Final re-engagement attempt. Consider suppressing from campaigns.
+C554412,Lost,7,66,4,434.51,Final re-engagement attempt. Consider suppressing from campaigns.
+C834705,Lost,7,266,2,138.89,Final re-engagement attempt. Consider suppressing from campaigns.
+C617933,Lost,11,138,6,138.25,Final re-engagement attempt. Consider suppressing from campaigns.
+C380199,Lost,7,110,1,245.06,Final re-engagement attempt. Consider suppressing from campaigns.
+C923207,Lost,4,190,9,248.48,Final re-engagement attempt. Consider suppressing from campaigns.
+C176497,Lost,12,133,9,457.86,Final re-engagement attempt. Consider suppressing from campaigns.
+C424639,Lost,10,248,7,244.8,Final re-engagement attempt. Consider suppressing from campaigns.
+C347117,Lost,12,44,7,365.77,Final re-engagement attempt. Consider suppressing from campaigns.
+C233542,Lost,4,103,6,31.15,Final re-engagement attempt. Consider suppressing from campaigns.
+C704831,Lost,10,148,1,182.63,Final re-engagement attempt. Consider suppressing from campaigns.
+C965010,Lost,5,325,3,445.64,Final re-engagement attempt. Consider suppressing from campaigns.
+C589620,Lost,10,17,2,327.34,Final re-engagement attempt. Consider suppressing from campaigns.
+C867631,Lost,6,217,2,276.63,Final re-engagement attempt. Consider suppressing from campaigns.
+C868173,Lost,11,103,8,312.08,Final re-engagement attempt. Consider suppressing from campaigns.
+C604948,Lost,11,156,4,351.92,Final re-engagement attempt. Consider suppressing from campaigns.
+C289506,Lost,10,95,3,377.69,Final re-engagement attempt. Consider suppressing from campaigns.
