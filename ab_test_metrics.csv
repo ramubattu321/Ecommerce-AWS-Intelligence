@@ -1,3 +1,0 @@
-variant,users,conversions,conversion_rate,total_revenue,avg_revenue,revenue_per_user
-control,5000,601,0.1203,271000,54.2,54.2
-test,5000,692,0.1384,309000,61.8,61.8
